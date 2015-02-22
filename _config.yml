@@ -5,7 +5,7 @@ relative_permalinks: true
 # Setup
 title:            btkm
 tagline:          Блог о путешествиях и вообще
-url:              http://butkam.github.io
+url:              http://butkam.github.io/btkm_blog/
 paginate:         1
 baseurl:          /btkm_blog/
 author:

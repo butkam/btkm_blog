@@ -1,6 +1,6 @@
 # Permalinks
-permalink:        btkm
-relative_permalinks: false
+permalink:        pretty
+relative_permalinks: true
 
 # Setup
 title:            btkm
